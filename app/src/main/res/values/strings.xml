@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="forcast_fragment">forcast fragment</string>
+    <string name="click_to_fetch_location">Click to fetch Location</string>
+</resources>
